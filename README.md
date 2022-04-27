@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sarahroesler
-- 👀 I’m interested in learning to build websites and land a job!
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to learn from this platform, and both receive and provide feedback.
+- 👀 I’m interested in becoming a Front-End Developer. 
+- 🌱 I’m currently learning JavaScript, and I am proficient in HTML and CSS.
 - 📫 How to reach me sarah_roesler@yahoo.com
 
 <!---
