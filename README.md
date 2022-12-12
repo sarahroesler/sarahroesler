@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahroesler
-- 👀 I’m interested in becoming a Front-End Developer. 
-- 🌱 I’m currently learning JavaScript, and I am proficient in HTML and CSS.
+- 👀 I’m interested in becoming a Full-Stack Developer.
+- 🌱 I’m currently mastering Javascript and React, and dabbling in MySQL.
 - 📫 How to reach me sarah_roesler@yahoo.com
 
 <!---
